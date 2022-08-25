@@ -580,6 +580,8 @@ $(document).ready(function () {
         }
     })
 
+    
+
     //swiper projects parthner page
     let nodeProjectsParthnerPageSwiper = document.querySelector('.swiper.swiper-projects.swiper-specprojects__prathner__page')
     let projectsParthnerPageSwiper = undefined
